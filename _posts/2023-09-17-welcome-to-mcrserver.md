@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: 欢迎来到MCR服务器博客！
+subtitle: 谢谢支持
+author: Admin
+categories: admin
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -21,9 +21,7 @@ top: 1
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+欢迎光临我们的博客！本博客基于YAT编写，代码为HTML，目前正在施工中，请耐心等待各类信息的上传、更新，联系邮箱：admin@mcrconsle.onmicrosoft.com
 
 ## section 1
 
